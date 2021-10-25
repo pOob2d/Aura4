@@ -1,6 +1,9 @@
 Aura
 Phase 1 
-• Shall set-up the Raspberry Pi and configure it for the project 
+• Shall set-up the Raspberry Pi and configure it for the project
+o shall instal the Raspbian OS
+o shall enamble SPI and I2C I/O
+o shall install and setup the SW tools
 • Shall demonstrate basic understanding of Python coding 
 o Create simple unit conversion program 
 • Shall demonstrate basic understanding of Raspberry Pi I/O 
