@@ -1,7 +1,7 @@
 Aura
 Phase 1 
 • Shall set-up the Raspberry Pi and configure it for the project
-o shall instal the Raspbian OS
+o shall install the Raspbian OS
 o shall enamble SPI and I2C I/O
 o shall install and setup the SW tools
 • Shall demonstrate basic understanding of Python coding 
@@ -16,4 +16,12 @@ Shall set up the Raspberry Pi abd cofigure it for the project
 Shall install the Raspbian OS 
 Shall enable SPI and 12C I/O 
 Shall install and set up the SW tools
-3 unit conversions = 12 inches = 1 feet. 1m = 100cm. 1m = 3.28ft.
+
+1. Set up Raspberry pi. Mostly done
+2. 
+  - 3 unit conversions "12 inches = 1 feet. 1m = 100cm. 1m = 3.28ft"
+  - Prompts. stuff like "which unit would you like to convert"
+
+3. The LED will blink every time a conversion is commpleted
+  - Red
+  - 
