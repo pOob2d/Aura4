@@ -12,3 +12,7 @@ o Configure LED on breadboard o Blink LED
 o Add a random rectangle to the center of the game screen 
 o Add random ball to the top-left corner of the game screen 
 o Add text to the top-right of the game screen
+Shall set up the Raspberry Pi abd cofigure it for the project
+Shall install the Raspbian OS 
+Shall enable SPI and 12C I/O 
+Shall install and set up the SW tools
