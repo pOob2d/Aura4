@@ -26,3 +26,4 @@ Shall install and set up the SW tools
   - Red
   - What Resistor? 26 resister 220ohms
 
+4. A red rectangle with the sieze 20x20 pixels. A score number that is green at the top right. A blue circle with a radius of 5 in pixels.
