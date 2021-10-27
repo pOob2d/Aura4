@@ -25,3 +25,4 @@ Shall install and set up the SW tools
 3. The LED will blink every time a conversion is commpleted
   - Red
   - 
+26 resister 220ohms
