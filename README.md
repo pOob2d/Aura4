@@ -16,3 +16,4 @@ Shall set up the Raspberry Pi abd cofigure it for the project
 Shall install the Raspbian OS 
 Shall enable SPI and 12C I/O 
 Shall install and set up the SW tools
+3 unit conversions = 12 inches = 1 feet. 1m = 100cm. 1m = 3.28ft.
