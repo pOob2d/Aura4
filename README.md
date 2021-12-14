@@ -27,3 +27,23 @@ Shall install and set up the SW tools
   - What Resistor? 26 resister 220ohms
 
 4. A red rectangle with the sieze 20x20 pixels. A score number that is green at the top right. A blue circle with a radius of 5 in pixels.
+
+Unit converter
+
+unit=input("Enter Unit(km,lbs,grams,miles): ")
+if unit=="km":
+  km=int(input("enter KM value: "))
+  mph = km*.62
+  print(mph,"mph")
+if unit =="lbs":
+  lbs=int(input("enter lbs value: "))
+  ounces = lbs*16
+  print(ounces,"ounces")
+if unit =="grams":
+  grams=int(input("enter grams value: "))
+  ounces = grams*.035274
+  print(ounces,"ounces")
+if unit =="miles":
+  miles=int(input("enter miles value: "))
+  foot = miles*5280
+  print(foot,"feet") 
